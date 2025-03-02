@@ -1,16 +1,14 @@
-Age-Based Fashion Preferences - Data Mining Project
-
+**Age-Based Fashion Preferences - Data Mining Project**
 This repository contains the source code and documentation for the Data Mining Project on Age-Based Fashion Preferences, analyzing how age influences fashion choices using machine learning models.
 
-Guided By:
+**Guided By:**
 Mian Muhammad Talha, Computer Science,Comsats University
 
 Group Members:
-
-Yumna Bint-e Yasir 
+Yumna Bint-e Yasir   
 Fatima Mehboob 
 
-Project Overview
+**Project Overview**
 The project investigates how different age groups adapt to fashion trends, using data mining techniques to classify individuals based on their style changes.
 
 Given survey responses and collected fashion data, the objective is to classify individuals into one of the following categories:
@@ -21,7 +19,7 @@ Changed Significantly
 
 This is a multi-class classification problem that leverages machine learning models to predict how individuals' fashion preferences evolve over time.
 
-Dataset
+**Dataset**
 The dataset consists of survey responses collected through Google Forms, WhatsApp, LinkedIn, and in-person interviews at shopping malls. The key attributes include:
 
 Age Group (Under 18, 18-24, 25-34, etc.)
